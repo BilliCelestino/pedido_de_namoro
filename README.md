@@ -1,2 +1,5 @@
-# pedido_de_namoro
-Primeiro projeto em html/android.
+# Date-me-
+Como pedir a gata em namoro, estilo programador.
+Obs:sem ela dizer não 😈😈
+
+Preview : "https://datemew.netlify.app"
